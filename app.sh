@@ -1,1 +1,4 @@
-hass --open-ui
+#!/bin/bash
+
+
+exec hass --open-ui
